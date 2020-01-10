@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  order_no: 1
+  ordre_type: MyString
+  payble_price: 1
+  tracking_no: MyString
+  date: 2020-01-09
+  product: one
+
+two:
+  order_no: 1
+  ordre_type: MyString
+  payble_price: 1
+  tracking_no: MyString
+  date: 2020-01-09
+  product: two
